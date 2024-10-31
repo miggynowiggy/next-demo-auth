@@ -1,4 +1,4 @@
-## Nuxt Demo
+## Next Demo
 
 This is a boilerplate Next project that contains Material UI
 
